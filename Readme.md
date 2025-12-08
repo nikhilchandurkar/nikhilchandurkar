@@ -33,19 +33,20 @@ A developer who loves building **beautiful UIs, scalable backend systems, and in
 
 </div>
 
----
 
 # 📊 **GitHub Analytics**
 
-| **My Stats** | **Most Used Languages** |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=nikhilchandurkar&theme=midnight-purple&show_icons=true&hide_border=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilchandurkar&layout=compact&theme=midnight-purple&hide_border=true" width="400" /> |
+### **🧭 My Development Footprint**
+![Stats](https://github-readme-stats.vercel.app/api?username=nikhilchandurkar&theme=midnight-purple&show_icons=true&hide_border=true)
 
-| **Contribution Streak** | **Activity Graph** |
-| :--- | :--- |
-| <img src="https://streak-stats.demolab.com?user=nikhilchandurkar&theme=midnight-purple&hide_border=true" width="400" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilchandurkar&theme=react-dark&hide_border=true&area=true" width="400" /> |
+### **💠 Most Used Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilchandurkar&layout=compact&theme=midnight-purple&hide_border=true)
 
----
+### **🔥 Contribution Streak**
+![Streak](https://streak-stats.demolab.com?user=nikhilchandurkar&theme=midnight-purple&hide_border=true)
+
+### **📈 Activity Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilchandurkar&theme=react-dark&hide_border=true&area=true)
 
 # 🚀 **Featured Projects**
 
@@ -86,4 +87,4 @@ A developer who loves building **beautiful UIs, scalable backend systems, and in
 * 🔭 Working on Oroshine dental care , ML systems & E‑commerce webapp 
 * 🌱 Sharpening my knowledge in  System Design & Django framework 
 * 🤝 Open for full-time roles & collaborations
-* 
+  
